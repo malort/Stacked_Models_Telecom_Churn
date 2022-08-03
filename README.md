@@ -1,5 +1,4 @@
-# TELECOM_USERS
-
+# Stacked_Models_Telecom_Churn
 The dataset comes from a telecommunications company:
 https://drive.google.com/file/d/1dPCG76ST6NohYKtVMGv6HpFL-jD5p1eJ/view
 
